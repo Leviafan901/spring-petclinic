@@ -225,7 +225,7 @@
           </dependency>
         </dependencies>
       </plugin>
-    </plugins>
+    </plugins
   </build>
 
   <!-- Apache 2 license -->
